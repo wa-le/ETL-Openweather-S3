@@ -1,0 +1,6 @@
+# Ignore virtual environment directory
+venv/
+.idea/
+airflow_project_1_key.pem
+tmp/
+config.py
